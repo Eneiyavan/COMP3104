@@ -20,5 +20,6 @@
   "homepage": "https://github.com/Eneiyavan/COMP3104#readme",
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "devDependencies": {}
 }
