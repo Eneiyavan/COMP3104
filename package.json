@@ -24,8 +24,8 @@
     "url": "https://github.com/Eneiyavan/COMP3104/issues"
   },
   
-  "homepage": "https://github.com/Eneiyavan/COMP3104",
-  "dependencies": {
+   "homepage": "https://Eneiyavan.github.io/COMP3104",
+     "dependencies": {
     "@testing-library/dom": "^10.4.2",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.3",
